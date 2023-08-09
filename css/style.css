@@ -183,6 +183,10 @@ body {
 	color: #FFF;
 }
 
+.videoSobre__container__video {
+	width: 100%;
+}
+
 .videoSobre-sobre-title {
 	font-size: 1.2em;
 	font-weight: bolder;
